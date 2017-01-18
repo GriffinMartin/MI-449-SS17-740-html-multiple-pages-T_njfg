@@ -4,4 +4,19 @@
 .about {
   font-size: 22px;
 }
+.home {
+  padding-left: 25px;
+}
 
+//live section
+.head-live {
+}
+.small-centered {
+  text-align: center;
+}
+.content {
+  padding-top: 25px; 
+}
+.about {
+  font-size: 25px;
+}
